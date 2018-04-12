@@ -35,3 +35,11 @@ Librerias:
 
 ## Diseño Interfaz Java
 ![alt tag](https://github.com/MiltonDM/UNIDAD_3/blob/master/image/interfaz%201.png)
+## Vista previa:
+
+<table>
+<tr>
+<td><img src=></td>
+<td><img src=></td>
+<td><img src=></td>
+</tr>
