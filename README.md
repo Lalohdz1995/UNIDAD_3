@@ -17,7 +17,7 @@ Programas:
 
 Materiales:
 - Protoboard
-- Arudino UNO
+- Arduino UNO
 - LM35 (sensor de tempatura)
 - Potenciometro (10k)
 - Pantalla LCD.
