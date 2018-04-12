@@ -39,7 +39,8 @@ Librerias:
 
 <table>
 <tr>
-<td><img src=></td>
-<td><img src=></td>
-<td><img src=></td>
+<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195835602_BURST001.jpg></td>
+<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195900047_BURST000_COVER_TOP.jpg></td>
+<td><img src=https://github.com/MiltonDM/UNIDAD_3/blob/master/image/IMG_20180411_195905173_BURST000_COVER_TOP.jpg></td>
 </tr>
+</table>
